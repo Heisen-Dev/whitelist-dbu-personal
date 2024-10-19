@@ -1,4 +1,4 @@
-local users = {'justforkicks99', 'TheHelllSpawn', 'ProjectMkII', 'HateNovaGod', 'Tech_Sorcerer', 'TocinoProgramador'}
+local users = {'justforkicks99', 'TheHelllSpawn', 'ProjectMkII', 'HateNovaGod', 'Tech_Sorcerer', 'TocinoProgramador', 'chicles20191'}
 
 
 local isBuyer = false
