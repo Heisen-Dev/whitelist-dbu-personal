@@ -1,5 +1,5 @@
 local users = {'justforkicks99', 'TheHelllSpawn', 'ProjectMkII',
-	'HateNovaGod', 'TocinoProgramador', 'chicles20191', 'Killerman67981', 'ALTMIKE21', 'broomercuh'}
+	'Goheezaealt', 'TocinoProgramador', 'chicles20191', 'Killerman67981', 'ALTMIKE21', 'broomercuh'}
 
 
 local isBuyer = false
