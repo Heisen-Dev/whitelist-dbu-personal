@@ -1,7 +1,7 @@
 local users = {'justforkicks99', 'Wunfkd', 'ProjectMkII', 'Goheezaealt', 'TocinoProgramador', 'chicles20191', 'Killerman67981', 'ALTMIKE21', 'broomercuh'}
 
 
-local isBuyer = false
+local isBuyer = true
 local me = game:GetService('Players').LocalPlayer
 
 
