@@ -1,4 +1,4 @@
-local users = {'justforkicks99', 'Wunfkd', 'flash141868', 'Goheezaealt', 'TocinoProgramador', 'chicles20191', 'Killerman67981', 'ALTMIKE21', 'broomercuh', 'CodigoEnigma'}
+local users = {'justforkicks99', 'Wunfkd', 'flash141868', 'Goheezaealt', 'chicles20191', 'Killerman67981', 'ALTMIKE21', 'broomercuh', 'CodigoEnigma'}
 
 
 local isBuyer = true
